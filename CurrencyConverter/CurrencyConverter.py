@@ -1,5 +1,6 @@
 import requests
 from secret_info import url
+# File secret_info is private
 
 
 class CurrencyConverter:
